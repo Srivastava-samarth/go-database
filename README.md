@@ -88,4 +88,4 @@ The commented part of the code in the `main.go` file demonstrates two ways to de
    ```
    ## Contributing
 
-   Contributions are always welcome!Please fork the repository and submit a pull request.
+   Contributions are always welcome! Please fork the repository and submit a pull request.
