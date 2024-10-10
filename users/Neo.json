@@ -1,0 +1,12 @@
+{
+	"Name": "Neo",
+	"Age": 29,
+	"Contact": "2345567889",
+	"Company": "Intuit",
+	"Address": {
+		"City": "noida",
+		"State": "uttar pradesh",
+		"Country": "india",
+		"Pincode": 234567
+	}
+}

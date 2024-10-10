@@ -1,0 +1,12 @@
+{
+	"Name": "Paul",
+	"Age": 25,
+	"Contact": "2345567889",
+	"Company": "Microsoft",
+	"Address": {
+		"City": "delhi",
+		"State": "delhi",
+		"Country": "india",
+		"Pincode": 234567
+	}
+}

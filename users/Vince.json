@@ -1,0 +1,12 @@
+{
+	"Name": "Vince",
+	"Age": 27,
+	"Contact": "2345567889",
+	"Company": "Meta",
+	"Address": {
+		"City": "bangalore",
+		"State": "karnataka",
+		"Country": "india",
+		"Pincode": 234567
+	}
+}

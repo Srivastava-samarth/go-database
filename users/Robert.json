@@ -1,0 +1,12 @@
+{
+	"Name": "Robert",
+	"Age": 26,
+	"Contact": "2345567889",
+	"Company": "Adobe",
+	"Address": {
+		"City": "gurugram",
+		"State": "haryana",
+		"Country": "india",
+		"Pincode": 234567
+	}
+}
